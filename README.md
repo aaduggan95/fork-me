@@ -1,3 +1,3 @@
 # fork-me
-fork me\n
+fork me
 Yeah, fork you. 
